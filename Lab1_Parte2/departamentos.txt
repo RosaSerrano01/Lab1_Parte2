@@ -1,0 +1,15 @@
+Departamento,poblacion
+San Miguel,265921
+San Salvador,6486201
+Usulutan,338332
+Santa Ana,631100
+Morazan,252500
+La Paz,764617
+Sonsonate,535561
+Chalatenango,192788
+La Union,34045
+La Libertad,1859640
+San Vicente,110947
+Cuscatlan,37399
+CabaÃ±as,149326
+Ahuachapan,63981
